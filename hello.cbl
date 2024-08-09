@@ -7,4 +7,6 @@
       *    AN INTEGER IN A CALLED PROGRAM TO DETERMINE DAYS FROM
       *    CURRENT DATE.
       * TRAINING PURPOSE1
-      NEW training 1,23,4,5
+
+      NEW training 1,23,4,5,6
+
