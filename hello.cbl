@@ -1,5 +1,5 @@
    ID DIVISION.
-       PROGRAM-ID. HELLO.
+       PROGRAM-ID. HELLO1.
 
       *    THIS IS A program
       *
