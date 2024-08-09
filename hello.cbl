@@ -1,6 +1,6 @@
 000100 ID DIVISION.                                                     00000100
-000200 PROGRAM-ID. EPSCMORT.                                            00000200
-000300*    THISS DEMONSTRATES CICS/DEBUG           - EPSDEMOS 2008      00000300
+000200 PROGRAM-ID. HELLO.                                               00000200
+000300*    THIS IS SAMPLE FOR GIT/DBB TRAINING     - EPSDEMOS 2008      00000300
 000400*                                                                 00000400
 000500*    THIS PROGRAM WILL RECEIVE A DATE AND COVERT THE DATE TO      00000500
 000600*    AN INTEGER IN A CALLED PROGRAM TO DETERMINE DAYS FROM        00000600
