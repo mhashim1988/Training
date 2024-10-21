@@ -4,9 +4,9 @@
 000400*     test123                                                            0
 000500*    THIS PROGRAM WILL RECEIVE A DATE AND COVERT THE DATE TO      00000500
 000600*    AN INTEGER IN A CALLED PROGRAM TO DETERMINE DAYS FROM        00000600
-000700*    CURRENT DATEE.                                               00000700
+000700*    CURRENT DATIE.                                               00000700
 000800*                                                                 00000800
-000900*    (C) 2017 IBM - JIM HILDNER RESERVED.                         00000900
+000900*    (C) 2017 IBM - JIM HILDNER RESERVEDD.                        00000900
 001000 ENVIRONMENT DIVISION.                                            00001000
 001100 CONFIGURATION SECTION.                                           00001100
 001200 SOURCE-COMPUTER. IBM-FLEX-ES.                                    00001200
