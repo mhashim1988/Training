@@ -1,10 +1,10 @@
 000100 ID DIVISION.                                                     00000100
 000200 PROGRAM-ID. HELLO.                                               00000200
-000300*    THIS IS SAMPLE FOR GIT/DBB TRAINING STORY123- EPSDEMOS 2008    00000300
-000400*     test123                                                            00000400
+000300*    THIS IS SAMPLE FOR GIT/DBB TRAINING STORY123- EPSDEMOS 2008    000003
+000400*     test123                                                            0
 000500*    THIS PROGRAM WILL RECEIVE A DATE AND COVERT THE DATE TO      00000500
 000600*    AN INTEGER IN A CALLED PROGRAM TO DETERMINE DAYS FROM        00000600
-000700*    CURRENT DATE.                                                00000700
+000700*    CURRENT DATEe.                                               00000700
 000800*                                                                 00000800
 000900*    (C) 2017 IBM - JIM HILDNER RESERVED.                         00000900
 001000 ENVIRONMENT DIVISION.                                            00001000
